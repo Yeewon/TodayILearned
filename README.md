@@ -10,8 +10,9 @@
 ### 2022년 4월 TIL
 | 날짜 | 제목 | 설명 | 링크 |
 | ---------- | ------------- | ----------------------------------------------------- | ----------------------------------------------------------------------- |
-| 2022.04.11 | TIL |  React의 등장부터 특징까지 | [링크](https://velog.io/@yes3427/React) |
-| 2022.04.14 | TIL |  자바스크립트는 정말 인터프리터 언어인가? | [링크](https://velog.io/@yes3427/JavaScript-interpreter) |
+| 2022.04.11 | TIL |  [React] React의 등장부터 특징까지 | [링크](https://velog.io/@yes3427/React) |
+| 2022.04.14 | TIL |  [JavaScript] 자바스크립트는 정말 인터프리터 언어인가? | [링크](https://velog.io/@yes3427/JavaScript-interpreter) |
+| 2022.04.15 | TIL |  [React] React + TypeScript + webpack + babel 프로젝트 초기 셋팅하기 | [링크](https://velog.io/@yes3427/React-typeScript-Webpack-Babel-setting) |
 
 <br/>
 

@@ -13,6 +13,8 @@
 | 2022.04.11 | TIL |  [React] React의 등장부터 특징까지 | [링크](https://velog.io/@yes3427/React) |
 | 2022.04.14 | TIL |  [JavaScript] 자바스크립트는 정말 인터프리터 언어인가? | [링크](https://velog.io/@yes3427/JavaScript-interpreter) |
 | 2022.04.15 | TIL |  [React] React + TypeScript + webpack + babel 프로젝트 초기 셋팅하기 | [링크](https://velog.io/@yes3427/React-typeScript-Webpack-Babel-setting) |
+| 2022.04.15 | TIL |  [Webpack] Module not found Error 해결 | [링크](https://velog.io/@yes3427/Webpack-Module-not-found-error) |
+
 
 <br/>
 
